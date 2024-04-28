@@ -6,10 +6,6 @@ Você pode acessá-lo com este [link](https://bellussi1.github.io/dashboard-them
 ![screenshot1](screenshot1.png)
 ![screenshot2](screenshot2.png)
 
-
-## Visão Geral
-Esta landing page foi criada com o objetivo de fornecer uma experiência envolvente aos visitantes, utilizando animações sutis e interações intuitivas para destacar os principais pontos do seu produto, serviço ou marca.
-
 ## Como Utilizar
 1. Clone este repositório em sua máquina local:
 ```
